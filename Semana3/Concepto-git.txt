@@ -1,0 +1,4 @@
+Repositorio:El repositorio es como la carpeta principal de mi proyecto. Ahí guardo todos los archivos y Git guarda el historial de todo lo que voy cambiando. Si me equivoco puedo volver a una versión anterior.
+Commit:Un commit es cuando guardo los cambios que hice y le pongo un mensaje explicando qué hice. Es como tomar una foto de mi proyecto en ese momento para no perder el avance.
+
+Push:Push es cuando subo los cambios que guardé en mi computador al repositorio de GitHub. Así mis archivos quedan en la nube y el profe los puede ver.
